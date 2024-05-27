@@ -1,3 +1,10 @@
+Improved version of this project is here!
+
+# Demo
+https://github.com/ricasbp/Three.Js-WebSiteDemo/assets/59062659/a4194fed-562b-4a64-9013-4ffdccd5669e
+https://github.com/ricasbp/Three.js_VaporWave
+
+
 This is a simple website I did with three.js back in when I was in my 1st year of college. Hope you like it!.
 
 # Demo
