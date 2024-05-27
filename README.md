@@ -1,4 +1,4 @@
-This is a simple website I did with three.js back in when I was in my 1st year of college. Hope you like it!.
+This is another simple website I did with three.js when I was in my 1st year of college. Hope you like it!.
 
 # Demo
 https://github.com/ricasbp/Three.Js-WebSiteDemo/assets/59062659/a4194fed-562b-4a64-9013-4ffdccd5669e
