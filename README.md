@@ -3,7 +3,8 @@ This is a simple website I did with three.js back in when I was in my 1st year o
 # Demo
 
 
-https://github.com/ricasbp/Three.Js-WebSiteDemo/assets/59062659/484bfd58-c27c-4f3b-9a00-35931dc032f8
+https://github.com/ricasbp/Three.Js-WebSiteDemo/assets/59062659/5f32557c-faff-4199-af13-ed3dc80e9bb5
+
 
 
 
